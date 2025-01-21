@@ -8,7 +8,7 @@
             "price": 99.99,
             "instructor": "John Smith",
             "isFeatured": true,
-            "image": "/courses/premier.jpeg"
+            "image": "/courses/abc1.jpeg"
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "price": 109.99,
             "instructor": "Sarah Johnson",
             "isFeatured": false,
-            "image": "/courses/graphic-design.jpg"
+            "image": "/courses/abc2.jpeg"
         },
         {
             "id": 3,
@@ -28,7 +28,7 @@
             "price": 119.99,
             "instructor": "Emily Carter",
             "isFeatured": false,
-            "image": "/courses/3d-modeling.jpg"
+            "image": "/courses/abc3.jpeg"
         },
         {
             "id": 4,
@@ -38,7 +38,7 @@
             "price": 129.99,
             "instructor": "Mark Brown",
             "isFeatured": true,
-            "image": "/courses/aftere.jpeg"
+            "image": "/courses/abc4.jpeg"
         },
         {
             "id": 5,
@@ -48,7 +48,7 @@
             "price": 139.99,
             "instructor": "Alice Davis",
             "isFeatured": false,
-            "image": "/courses/creative-design.jpg"
+            "image": "/courses/abc5.jpeg"
         },
         {
             "id": 6,
@@ -58,7 +58,7 @@
             "price": 149.99,
             "instructor": "David Wilson",
             "isFeatured": true,
-            "image": "/courses/gralhic.jpeg"
+            "image": "/courses/abc6.jpeg"
         },
         {
             "id": 7,
@@ -68,7 +68,7 @@
             "price": 159.99,
             "instructor": "Sophia Miller",
             "isFeatured": false,
-            "image": "/courses/motion-gralhic.jpg"
+            "image": "/courses/abc7.jpeg"
         },
         {
             "id": 8,
@@ -78,7 +78,7 @@
             "price": 169.99,
             "instructor": "Lucas Harris",
             "isFeatured": true,
-            "image": "/courses/threed.jpeg"
+            "image": "/courses/abc8.jpeg"
         },
         {
             "id": 9,
@@ -88,7 +88,7 @@
             "price": 179.99,
             "instructor": "Grace Lee",
             "isFeatured": false,
-            "image": "/courses/design-history.jpg"
+            "image": "/courses/abc9.jpeg"
         },
         {
             "id": 10,
@@ -98,7 +98,7 @@
             "price": 189.99,
             "instructor": "Ethan Moore",
             "isFeatured": true,
-            "image": "/courses/visual.jpeg"
+            "image": "/courses/abc10.jpeg"
         }
     ]
 }
