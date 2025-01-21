@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Video Editing Essentials",
+            "slug": "video-editing-essentials",
+            "description": "Learn the fundamentals of video editing with industry-standard tools and techniques.",
+            "price": 99.99,
+            "instructor": "John Smith",
+            "isFeatured": true,
+            "image": "/courses/premier.jpeg"
+        },
+        {
+            "id": 2,
+            "title": "Graphic Design for Beginners",
+            "slug": "graphic-design-for-beginners",
+            "description": "Start your journey into graphic design with foundational skills and software knowledge.",
+            "price": 109.99,
+            "instructor": "Sarah Johnson",
+            "isFeatured": false,
+            "image": "/courses/graphic-design.jpg"
+        },
+        {
+            "id": 3,
+            "title": "3D Modeling Basics",
+            "slug": "3d-modeling-basics",
+            "description": "Dive into the world of 3D modeling with this beginner-friendly course using popular software.",
+            "price": 119.99,
+            "instructor": "Emily Carter",
+            "isFeatured": false,
+            "image": "/courses/3d-modeling.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Advanced Video Editing Techniques",
+            "slug": "advanced-video-editing-techniques",
+            "description": "Master advanced video editing techniques to take your projects to the next level.",
+            "price": 129.99,
+            "instructor": "Mark Brown",
+            "isFeatured": true,
+            "image": "/courses/aftere.jpeg"
+        },
+        {
+            "id": 5,
+            "title": "Creative Graphic Design",
+            "slug": "creative-graphic-design",
+            "description": "Learn creative graphic design techniques to enhance your artistic projects.",
+            "price": 139.99,
+            "instructor": "Alice Davis",
+            "isFeatured": false,
+            "image": "/courses/creative-design.jpg"
+        },
+        {
+            "id": 6,
+            "title": "3D Animation Fundamentals",
+            "slug": "3d-animation-fundamentals",
+            "description": "Learn the basics of 3D animation, including rigging and motion design.",
+            "price": 149.99,
+            "instructor": "David Wilson",
+            "isFeatured": true,
+            "image": "/courses/gralhic.jpeg"
+        },
+        {
+            "id": 7,
+            "title": "Motion Graphics Essentials",
+            "slug": "motion-graphics-essentials",
+            "description": "Create compelling motion graphics with industry-leading software.",
+            "price": 159.99,
+            "instructor": "Sophia Miller",
+            "isFeatured": false,
+            "image": "/courses/motion-gralhic.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Advanced 3D Modeling",
+            "slug": "advanced-3d-modeling",
+            "description": "Master advanced 3D modeling techniques for realistic and detailed designs.",
+            "price": 169.99,
+            "instructor": "Lucas Harris",
+            "isFeatured": true,
+            "image": "/courses/threed.jpeg"
+        },
+        {
+            "id": 9,
+            "title": "Graphic Design History",
+            "slug": "graphic-design-history",
+            "description": "Explore the evolution of graphic design from traditional to modern techniques.",
+            "price": 179.99,
+            "instructor": "Grace Lee",
+            "isFeatured": false,
+            "image": "/courses/design-history.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Visual Effects Mastery",
+            "slug": "visual-effects-mastery",
+            "description": "Learn to create stunning visual effects for movies and videos with expert guidance.",
+            "price": 189.99,
+            "instructor": "Ethan Moore",
+            "isFeatured": true,
+            "image": "/courses/visual.jpeg"
+        }
+    ]
+}
