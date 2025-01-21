@@ -13,7 +13,7 @@ function MusicSchoolContactUs() {
     };
 
     return (
-        <div className="min-h-screen bg-slate-900 dark:bg-slate-950 py-12 lg:w-full sm:w-min pt-36 relative justify-center">
+        <div className="min-h-screen bg-slate-900 dark:bg-slate-950 py-12 lg:w-full overflow-x-hidden pt-36 relative justify-center">
             {' '}
             {/* Ensure the container is relative */}
             {/* BackgroundBeams with adjusted z-index */}
