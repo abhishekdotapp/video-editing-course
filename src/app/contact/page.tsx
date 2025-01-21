@@ -10,6 +10,8 @@ function MusicSchoolContactUs() {
     const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
         event.preventDefault();
         console.log('Submitted:', { email, message });
+        setEmail("");
+        setMessage("");
     };
 
     return (
